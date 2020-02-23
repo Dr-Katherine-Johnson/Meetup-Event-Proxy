@@ -1,3 +1,7 @@
 node_modules
 .DS_Store
 public/bundle.js
+
+# stress testing
+newrelic.js
+newrelic_agent.log
